@@ -1,7 +1,7 @@
 ####################################################################
-# Easier navigation: .., ..., ~ and -
+# Easier navigation: .., ..., ~ and - 
 ####################################################################
-alias cd="cs"
+alias cd="cs" # auto ls with each cd
 alias ..="cd .."
 alias ...="cd ../.."
 alias ~="cd ~" # `cd` is probably faster to type though
